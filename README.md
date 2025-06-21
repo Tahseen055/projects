@@ -1,4 +1,4 @@
 # projects
 This is my first reposatory
 <br>
-Author name : Tahseen Naz
+Author name :<b> Tahseen Naz </b>
